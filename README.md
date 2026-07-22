@@ -113,19 +113,20 @@ Includes:
 
 ### Executive Overview
 
+![Executive Overview](Images/executive-overview.png)
 
 
 ---
 
-### Campaign Analysis
+### Platform Performance
 
-![Campaign Analysis](Images/campaign_analysis.png)
+![Platform Performance](Images/platform_performance.png)
 
 ---
 
-### Market Analysis
+### Campaign & Market Analysis
 
-![Market Analysis](Images/market_analysis.png)
+![Campaign & Market Analysis](Images/campaign_&_market_analysis.png)
 
 ---
 
@@ -144,9 +145,3 @@ Includes:
 - ROAS remained high despite lower monthly revenue.
 
 ---
-
-## 👩‍💻 Author
-
-Sarah
-
-Data Analytics | Power BI | SQL | Python
