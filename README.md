@@ -113,7 +113,7 @@ Includes:
 
 ### Executive Overview
 
-![Executive Overview](Images/executive-overview.png)
+![Executive Overview](Images/executive_overview.png)
 
 
 ---
